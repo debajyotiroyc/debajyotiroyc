@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/debajyoti-roy-chowdhury-0b28901a6/](https://www.linkedin.com/in/debajyoti-roy-chowdhury-0b28901a6/)
 
-- ⚡ Fun fact **I am also a film enthusiast.**
+- ⚡ Fun fact **I am also a cinephile.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
