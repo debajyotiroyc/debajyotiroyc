@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on an E-commerce Website.
 
-- 🌱 I’m currently learning **REST APIs**
+- 🌱 I’m currently learning about **REST APIs**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/debajyotiroyc](https://github.com/debajyotiroyc)
 
-- 💬 Ask me about **python,competitive coding.**
+- 💬 Ask me about **python,web dev,competitive coding.**
 
 - 📫 How to reach me **debajyoti.rc2000@gmail.com**
 
