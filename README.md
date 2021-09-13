@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debajyotiroyc" alt="debajyotiroyc" /></a> </p>
 
-- 🔭 I’m currently working on an **E-Commerce website**.
+- 🔭 I’m currently working on a **Social Media Platform**.
 
-- 🌱 I’m currently learning about **REST APIs**.
+- 🌱 I’m currently learning about **concepts related to Django**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/debajyotiroyc](https://github.com/debajyotiroyc)
 
