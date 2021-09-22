@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/debajyotiroyc](https://github.com/debajyotiroyc)
 
-- 💬 Ask me about **python,web dev,competitive coding.**
+- 💬 Ask me about **Python,Web Dev,Competitive Coding.**
 
 - 📫 How to reach me **debajyoti.rc2000@gmail.com**
 
