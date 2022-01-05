@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on a **Geolocation App**.
 
-- 🌱 I’m currently learning about **concepts related to Django**.
+- 🌱 I’m currently learning about **concepts related to Vue.js**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/debajyotiroyc](https://github.com/debajyotiroyc)
 
